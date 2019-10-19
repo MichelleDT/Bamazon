@@ -1,27 +1,25 @@
 {
-  "name": "bamazon",
-  "version": "1.0.0",
-  "description": "Amazon-like store front created using Node.js and MySQL",
-  "main": "BamazonCustomer.js",
-  "dependencies": {
-    "inquirer": "^1.2.2",
-    "mysql": "^2.11.1"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "customer": "node BamazonCustomer.js",
-    "exective": "node BamazonExecutive.js",
-    "manager": "node BamazonManager.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/StefanieDing/BAMazon.git"
-  },
-  "author": "Stefanie Ding",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/StefanieDing/BAMazon/issues"
-  },
-  "homepage": "https://github.com/StefanieDing/BAMazon#readme"
+    "name": "bamazon",
+    "version": "1.0.0",
+    "description": "Created during Week 12 of Rutgers Coding Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.",
+    "main": "BamazonCustomer.js",
+    "dependencies": {
+        "customer": "0.0.1",
+        "inquirer": "^1.2.3",
+        "mysql": "^2.17.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MichelleDT/Bamazon.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MichelleDT/Bamazon/issues"
+    },
+    "homepage": "https://github.com/MichelleDT/Bamazon#readme"
 }
