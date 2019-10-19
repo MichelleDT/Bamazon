@@ -1,7 +1,7 @@
 {
     "name": "bamazon",
     "version": "1.0.0",
-    "description": "Created during Week 12 of Rutgers Coding Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.",
+    "description": "The goal was to create an Amazon-like store front using Node.js and MySQL.",
     "main": "BamazonCustomer.js",
     "dependencies": {
         "customer": "0.0.1",
