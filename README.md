@@ -28,9 +28,9 @@ The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 -----------------------
 
-## Demo Video
+## APP WORKING
 
-* BamazonCustomer.js (LINK TO VIDEO TO BE PUT HERE)
+* BamazonCustomer.js ---> REFER TO PNG IN REPOSITORY
 
 ## Technologies used
 - Node.js
