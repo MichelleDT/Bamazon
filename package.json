@@ -5,7 +5,7 @@
     "main": "BamazonCustomer.js",
     "dependencies": {
         "customer": "0.0.1",
-        "express": "^4.17.1",
+        "express": "^4.18.2",
         "inquirer": "^1.2.3",
         "mysql": "^2.17.1"
     },
